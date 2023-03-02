@@ -1,5 +1,9 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/76708357/162738129-a9aa3391-385f-403d-8f36-6324549ff735.png" alt="Tailwind CSS: estilizando páginas com classes utilitárias"> </p>
 
+
+Projeto muito legal onde eu consegui ter contato com um Framework do CSS: Tailwind. Muito útil e interessante.
+Quer saber como o projeto ficou? só conferir no link da Vercel: https://alura-news-letter-inky.vercel.app/
+
 <hr>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/76708357/162738365-c3bbc527-11ca-4626-9073-91a225f13534.png" alt="Alura Newsletter"> </p>
